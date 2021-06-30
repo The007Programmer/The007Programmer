@@ -6,19 +6,19 @@
 - 💞️ I’m collaborating on [Cafe_Bot](https://github.com/MilkshakeTheCoder/Cafe_Bot) with [andrewthederp](https://github.com/andrewthederp).
 - 📫 How to reach me: Make an issue on one of my github repositories.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MilkshakeTheCoder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilkshakeTheCoder&show_icons=true&theme=algolia" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/MilkshakeTheCoder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkshakeTheCoder&langs_count=5&theme=algolia" />
 </a>
 
 ⠀
 - Check out some of my best repositorires!
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/MilkshakeTheCoder/Cafe_Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Cafe_Bot&theme=algolia" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/Learning-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Learning-Python&theme=algolia" />
 </a>
 
