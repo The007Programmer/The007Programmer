@@ -18,7 +18,7 @@
 <a href="https://github.com/MilkshakeTheCoder/Cafe_Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Cafe_Bot&theme=algolia" />
 </a>
-<a href="https://github.com/anuraghazra/Learning-Python">
+<a href="https://github.com/MilkshakeTheCoder/Learning-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Learning-Python&theme=algolia" />
 </a>
 
