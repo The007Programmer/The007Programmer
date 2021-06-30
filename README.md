@@ -15,6 +15,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkshakeTheCoder&langs_count=5&theme=algolia" />
 </a>
 
+⠀
+- Check out some of my best repositorires!
+<a href="https://github.com/MilkshakeTheCoder/Cafe_Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Cafe_Bot&theme=algolia" />
+</a>
+<a href="https://github.com/MilkshakeTheCoder/Learning-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Learning-Python&theme=algolia" />
+</a>
+
 <!---
 MilkshakeTheCoder/MilkshakeTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
