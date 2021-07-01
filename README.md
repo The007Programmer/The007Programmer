@@ -1,8 +1,28 @@
 # Hi, I'm MilkshakeTheCoder!
 
-Hi! My name is Aahil. I'm working on developing Discord Bots and learning Python better as a whole. I love basically anything to do with computers. I like to take them apart (my dad has tons of old unused computers) and put them back together. I love to install new operating systems and play around with all the possibilites with different distributions of linux. Soon enough, I intend on learning other languages such as: C, JS, and a better knowledge of HTML/CSS. I’m mainly interested in topics such as discord.py, parsing, python, web-hosting, mongodb, youtube, and video games. I’m currently learning Python and integration with mongodb (also how to fancy-up README.md files lol). I’m collaborating on [Cafe_Bot](https://github.com/MilkshakeTheCoder/Cafe_Bot) with [andrewthederp](https://github.com/andrewthederp). How to reach me: Make an issue on one of my github repositories. I like to watch most movies (as long as they're not princess movies). I enjoy many cuisines and I am slowly learning to make foods from all of them. Most of my code will be posted here on github, because I like uploading big projects here so other people can also see and learn from those. I also just feel that open source projects are more reliable as compared to closed-source projects. Thanks for vising my github page, be sure to explore my repositories, and have a great day!
+👋 Hi! My name is Aahil.
 
-## Get In Touch w/ Me!
+💻 I'm working on developing Discord Bots and learning Python better as a whole. I love basically anything to do with computers. I like to take them apart (my dad has tons of old unused computers) and put them back together. I love to install new operating systems and play around with all the possibilites with different distributions of linux. 
+
+🗣 Soon enough, I intend on learning other languages such as: C, JS, and a better knowledge of HTML/CSS. 
+
+👀 I’m mainly interested in topics such as discord.py, parsing, python, web-hosting, mongodb, youtube, and video games. I’m currently learning Python and integration with mongodb (also how to fancy-up README.md files lol). 
+
+🤝 I’m currently collaborating on [Cafe_Bot](https://github.com/MilkshakeTheCoder/Cafe_Bot) with [andrewthederp](https://github.com/andrewthederp).
+
+👨‍💻 I am currently working mainly on my repositories [Learning-Python](https://github.com/MilkshakeTheCoder/Learning-Python) and [Learning-HTML](https://github.com/MilkshakeTheCoder/Learning-HTML).
+
+📬 How to reach me: Make an issue on one of my github repositories, or click one of the buttons in the [Get In Touch With Me](#get-in-touch-with-me) section below. 
+
+📺 I like to watch most movies (as long as they're not princess movies). 
+
+👨‍🍳 I enjoy many cuisines and I am slowly learning to make foods from all of them. 
+
+🐙 Most of my code will be posted here on github, because I like uploading big projects here so other people can also see and learn from those. 
+
+I also just feel that open source projects are more reliable as compared to closed-source projects. Thanks for vising my github page, be sure to explore my repositories, and have a great day!
+
+## Get In Touch With Me!
 
 <a href="https://stackoverflow.com/users/15837152/aahil-py">
   <img src="https://img.shields.io/badge/MilkshakeTheCoder-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
