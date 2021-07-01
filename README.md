@@ -12,6 +12,10 @@ Hi! My name is Aahil. I'm working on developing Discord Bots and learning Python
   <img src="https://img.shields.io/badge/MilkshakeTheCoder-green?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
+<a href="https://discord.gg/CtNTUX4znA">
+  <img src="https://img.shields.io/badge/Milkshake-blue?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 ## Github Stats
 <a href="https://github.com/MilkshakeTheCoder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilkshakeTheCoder&show_icons=true&theme=algolia" />
