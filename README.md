@@ -46,6 +46,7 @@ I also just feel that open source projects are more reliable as compared to clos
 
 ## Github Repos
 📕 Check out some of my best repositorires!
+
 <a href="https://github.com/MilkshakeTheCoder/Cafe_Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Cafe_Bot&theme=algolia" />
 </a>
