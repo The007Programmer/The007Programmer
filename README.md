@@ -38,20 +38,20 @@ I also just feel that open source projects are more reliable as compared to clos
 
 ## Github Stats
 <a href="https://github.com/MilkshakeTheCoder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilkshakeTheCoder&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilkshakeTheCoder&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/MilkshakeTheCoder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkshakeTheCoder&langs_count=5&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkshakeTheCoder&langs_count=5&theme=react" />
 </a>
 
 ## Github Repos
 📕 Check out some of my best repositorires!
 
 <a href="https://github.com/MilkshakeTheCoder/Cafe_Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Cafe_Bot&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Cafe_Bot&theme=react" />
 </a>
 <a href="https://github.com/MilkshakeTheCoder/Learning-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Learning-Python&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Learning-Python&theme=react" />
 </a>
 
 <!---
