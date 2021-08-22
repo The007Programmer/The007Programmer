@@ -28,7 +28,7 @@ I also just feel that open source projects are more reliable as compared to clos
   <img src="https://img.shields.io/badge/MilkshakeTheCoder-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/aahils20191">
+<a href="https://www.hackerrank.com/Milkshake">
   <img src="https://img.shields.io/badge/MilkshakeTheCoder-green?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
