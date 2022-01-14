@@ -8,7 +8,7 @@
 
 👀 I’m mainly interested in topics such as discord.py, parsing, python, web-hosting, mongodb, youtube, and video games. I’m currently learning Python and integration with mongodb (also how to fancy-up README.md files lol). 
 
-🤝 I’m currently collaborating on [Cafe_Bot](https://github.com/MilkshakeTheCoder/Cafe_Bot) with [andrewthederp](https://github.com/andrewthederp).
+🤝 I’m currently collaborating on [Arx Bot](https://github.com/MilkshakeTheCoder/Arx_Bot) with [andrewthederp](https://github.com/andrewthederp).
 
 👨‍💻 I am currently working mainly on my repositories [Learning-Python](https://github.com/MilkshakeTheCoder/Learning-Python) and [Learning-HTML](https://github.com/MilkshakeTheCoder/Learning-HTML).
 
