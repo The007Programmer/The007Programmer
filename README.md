@@ -2,15 +2,15 @@
 
 👋 Hi! My name is Aahil.
 
-💻 I'm working on developing Discord Bots and learning Python better as a whole. I love basically anything to do with computers. I like to take them apart (my dad has tons of old unused computers) and put them back together. I love to install new operating systems and play around with all the possibilites with different distributions of linux. 
+💻 I'm scrapping a lot of my old projects since a lot of my projects were built primarily on web-scraps, and I didn't feel great doing a project with work that wasn't mine. I'm going to re-learn python, and then start original projects, like a chad.
 
 🗣 Soon enough, I intend on learning other languages such as: C, JS, and a better knowledge of HTML/CSS. 
 
 👀 I’m mainly interested in topics such as discord.py, parsing, python, web-hosting, mongodb, youtube, and video games. I’m currently learning Python and integration with mongodb (also how to fancy-up README.md files lol). 
 
-🤝 I’m currently collaborating on [Arx Bot](https://github.com/MilkshakeTheCoder/Arx_Bot) with [andrewthederp](https://github.com/andrewthederp).
+🤝 No collabs rn, hit me up!
 
-👨‍💻 I am currently working mainly on my repositories [Learning-Python](https://github.com/MilkshakeTheCoder/Learning-Python) and [Learning-HTML](https://github.com/MilkshakeTheCoder/Learning-HTML).
+👨‍💻 I am currently working learning knowledge from books and hackerrank!
 
 📬 How to reach me: Make an issue on one of my github repositories, or click one of the buttons in the [Get In Touch With Me](#get-in-touch-with-me) section below. 
 
@@ -42,16 +42,6 @@ I also just feel that open source projects are more reliable as compared to clos
 </a>
 <a href="https://github.com/MilkshakeTheCoder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkshakeTheCoder&langs_count=5&theme=react" />
-</a>
-
-## Github Repos
-📕 Check out some of my best repositorires!
-
-<a href="https://github.com/MilkshakeTheCoder/Cafe_Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Cafe_Bot&theme=react" />
-</a>
-<a href="https://github.com/MilkshakeTheCoder/Learning-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilkshakeTheCoder&repo=Learning-Python&theme=react" />
 </a>
 
 <!---
