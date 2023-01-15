@@ -8,7 +8,7 @@
 
 👀 I’m mainly interested in topics such as discord.py, parsing, python, web-hosting, mongodb, youtube, and video games. I’m currently learning Python and integration with mongodb (also how to fancy-up README.md files lol). 
 
-🤝 No collabs rn, hit me up!
+🤝 No collabs rn, hit me up! Working on a logarithm calculator ugh
 
 👨‍💻 I am currently working learning knowledge from books and hackerrank!
 
