@@ -25,7 +25,7 @@ I also just feel that open source projects are more reliable as compared to clos
 ## Get In Touch With Me!
 
 <a href="https://stackoverflow.com/users/15837152/the007programmer">
-  <img src="https://img.shields.io/badge/MilkshakeTheCoder-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The007Programmer-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/The007Programmer">
