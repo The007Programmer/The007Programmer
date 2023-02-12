@@ -1,6 +1,6 @@
-# Hi, I'm MilkshakeTheCoder!
+# Hi, I'm The007Programmer!
 
-👋 Hi! My name is Aahil.
+👋 Hi! My real name is Aahil.
 
 💻 I'm scrapping a lot of my old projects since a lot of my projects were built primarily on web-scraps, and I didn't feel great doing a project with work that wasn't mine. I'm going to re-learn python, and then start original projects, like a chad.
 
@@ -24,24 +24,24 @@ I also just feel that open source projects are more reliable as compared to clos
 
 ## Get In Touch With Me!
 
-<a href="https://stackoverflow.com/users/15837152/aahil-py">
+<a href="https://stackoverflow.com/users/15837152/the007programmer">
   <img src="https://img.shields.io/badge/MilkshakeTheCoder-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/Milkshake">
-  <img src="https://img.shields.io/badge/MilkshakeTheCoder-green?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/The007Programmer">
+  <img src="https://img.shields.io/badge/The007Programmer-green?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/CtNTUX4znA">
-  <img src="https://img.shields.io/badge/Milkshake-blue?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Milkshake-red?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 ## Github Stats
-<a href="https://github.com/MilkshakeTheCoder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilkshakeTheCoder&show_icons=true&theme=react" />
+<a href="https://github.com/The007Programmer/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=The007Programmer&show_icons=true&theme=react" />
 </a>
-<a href="https://github.com/MilkshakeTheCoder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkshakeTheCoder&langs_count=5&theme=react" />
+<a href="https://github.com/The007Programmer/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The007Programmer&langs_count=5&theme=react" />
 </a>
 
 <!---
