@@ -33,7 +33,7 @@ I also just feel that open source projects are more reliable as compared to clos
 </a>
 
 <a href="https://discord.gg/CtNTUX4znA">
-  <img src="https://img.shields.io/badge/Milkshake-red?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Milkshake-blue?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 ## Github Stats
