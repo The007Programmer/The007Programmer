@@ -4,13 +4,13 @@
 
 💻 I'm scrapping a lot of my old projects since a lot of my projects were built primarily on web-scraps, and I didn't feel great doing a project with work that wasn't mine. I'm going to re-learn python, and then start original projects, like a chad.
 
-🗣 Soon enough, I intend on learning other languages such as: C, JS, and a better knowledge of HTML/CSS. 
+🗣 Soon enough, I intend on learning other languages such as: C, JS, Java, and a better knowledge of HTML/CSS. 
 
 👀 I’m mainly interested in topics such as discord.py, parsing, python, web-hosting, mongodb, youtube, and video games. I’m currently learning Python and integration with mongodb (also how to fancy-up README.md files lol). 
 
-🤝 No collabs rn, hit me up! Working on a logarithm calculator ugh
+🤝 No collabs rn, hit me up!
 
-👨‍💻 I am currently working learning knowledge from books and hackerrank!
+👨‍💻 I am currently working on learning knowledge from books, leetcode, hackerrank, and school CS classes!
 
 📬 How to reach me: Make an issue on one of my github repositories, or click one of the buttons in the [Get In Touch With Me](#get-in-touch-with-me) section below. 
 
