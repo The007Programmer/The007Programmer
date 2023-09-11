@@ -2,7 +2,7 @@
 
 👋 Hi! My real name is Aahil.
 
-💻 I'm scrapping a lot of my old projects since a lot of my projects were built primarily on web-scraps, and I didn't feel great doing a project with work that wasn't mine. I'm going to re-learn python, and then start original projects, like a chad.
+💻 I'm scrapping a lot of my old projects since a lot of my projects were built primarily on web-scraps, and I didn't feel great doing a project with work that wasn't mine. I'm going to re-learn python, and then start original projects.
 
 🗣 Soon enough, I intend on learning other languages such as: C, JS, Java, and a better knowledge of HTML/CSS. 
 
