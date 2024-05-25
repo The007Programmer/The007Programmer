@@ -2,7 +2,7 @@
 
 I'm an aspiring compsci major and potential software engineer.
 
-## Socials
+## Links
 
 <a href="https://stackoverflow.com/users/15837152/the007programmer">
   <img src="https://img.shields.io/badge/The007Programmer-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
